@@ -1,4 +1,4 @@
- # Here is a new update by <your GitHub username>
+# Here is a new update by tyomo2787
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
